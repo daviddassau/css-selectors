@@ -1,1 +1,61 @@
 /* Main CSS */
+
+header {
+	border: 1px solid lightblue;
+}
+
+nav ul li {
+	list-style: none;
+	display: inline;
+	margin-right: 20px;
+}
+
+.disabled {
+	color: grey;
+}
+
+a {
+	color: purple;
+}
+
+.active {
+	color: yellow;
+}
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
+
+.red + h4 {
+	background-color: red;
+}
+
+.blue + h4 {
+	background-color: blue;
+}
+
+.grandparent > h4 {
+	border: 1px solid black;
+	-webkit-border-radius: 30px 30px 30px 30px;
+	border-radius: 30px 30px 30px 30px;
+}
+
+.promo {
+	font-weight: bold;
+	color: gold;
+}
+
+input {
+	line-height: 25px;
+}
+
+
+
+
+
+
+
