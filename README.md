@@ -111,3 +111,4 @@ Paste the code below into your HTML document.
 
 </footer>
 ```
+![](2_CSS-Selectors.png)
